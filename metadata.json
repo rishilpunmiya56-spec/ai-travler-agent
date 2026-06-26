@@ -1,0 +1,6 @@
+{
+  "name": "AuraSpatial OS",
+  "description": "A spatial travel operating system that seamlessly blends artificial intelligence with real-world intuition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
